@@ -1,7 +1,5 @@
 package com.enterprise.core;
 
-import java.util.regex.Pattern;
-
 public class TripleDouble {
 
 	public int find(int first, int second) {
